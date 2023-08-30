@@ -1,7 +1,7 @@
 <h1 align="center">Ola! 👋, Sou o Rafael Rodrigues</h1>
 <h3 align="center">Fascinado pelo poder dos dados!!</h3>
 
-- 🌱 Atualmente estou aprendendo **Python, SQL, Azure**
+- 🌱 Atualmente estou aprendendo **Python, SQL**
 
 - 👨‍💻 Todos os meus projetos também estão no [https://www.kaggle.com/faelnunes](https://www.kaggle.com/faelnunes)
 
@@ -9,7 +9,7 @@
 
 - 📫 Você me encontra pelo email **rafael_r_nunes@hotmail.com**
 
-- ⚡Minha experiência pode ser encontrada aqui [https://www.linkedin.com/in/rafael-r-nunes/]
+- ⚡Minha experiência pode ser encontrada aqui [https://www.linkedin.com/in/rafael-r-nunes/](https://www.linkedin.com/in/rafael-r-nunes/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rafael-rodrigues-51b92952/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rafael-rodrigues-51b92952/" height="30" width="40" /></a>
